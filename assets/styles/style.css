@@ -1,0 +1,14 @@
+.navbar {
+  background-color: rgb(160, 240, 160);
+}
+.navbar .navbar-nav {
+  font-weight: 500;
+  text-decoration: none;
+  color: rgb(7, 79, 31);
+}
+.navbar .navbar-nav .active {
+  color: rgb(7, 79, 31) !important;
+  background-color: bisque;
+}
+
+/*# sourceMappingURL=style.css.map */

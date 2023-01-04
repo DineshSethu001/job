@@ -1,0 +1,19 @@
+$primary_color:rgb(160, 240, 160);
+$primary_text-color:rgb(7, 79, 31);
+.navbar{
+  background-color:$primary_color ;
+ 
+ 
+  .navbar-nav{
+    
+        font-weight: 500;
+        text-decoration: none;
+        color:$primary_text-color;
+        .active{
+            color:$primary_text-color !important;
+            background-color: bisque;
+        }
+    
+  }
+ 
+}
